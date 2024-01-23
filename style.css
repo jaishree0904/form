@@ -1,0 +1,33 @@
+.back
+{
+
+position: relative;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    padding-bottom: 300px;
+    text-align: center;
+    padding-left: 800px;
+  }
+  .reg{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+  }
+  .fn{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .ln{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .mail
+  {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .pass
+  {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
